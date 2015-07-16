@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tara Karma Clone</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	 <nav class="top-navigation">
+        <div class="content">
+        	<ul class="links">
+    			<li>Meet Karma</li>
+   				<li>How It works</li>
+    			<li>Store</li>
+    			<li>Blog</li>
+   				<li>Help</li>
+  				<li>Log in</li>
+			</ul>
+
+	<img class="logo" src="images/karma-logo.png" alt="Karma" width="26px">
+	</div>
+    </nav>
+<div class="content">
+    
+</div>
+
+
+</body>
+<footer>
+	
+</footer>
+</html>
